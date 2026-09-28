@@ -61,7 +61,7 @@ The app is a one-time purchase through the App Store or Google Play. Payments ar
 
 ## Your choices and rights
 
-- **Delete:** Settings > Delete my account removes your account, email address and any Google name and picture link, your results, wardrobe, fingerprints and message dates from our server, and the selfies, realistic look images, clothes photos and stylist chat from your phone.
+- **Delete:** Settings > Delete my account removes your account, email address and any Google name and picture link, your results, wardrobe, fingerprints and message dates from our server, and the selfies, realistic look images, clothes photos and stylist chat from your phone. We keep only the dates of past analyses, images and messages, with nothing that links them to you, so our daily limits keep working.
 - **Access, correction, objection:** email support@ardasenn.com. We answer within 48 hours and act within 30 days.
 - Depending on where you live (for example the EU/EEA, the UK, Türkiye under KVKK, or California), you may have further rights, including the right to complain to your data protection authority.
 
